@@ -25,7 +25,22 @@ _*{
 .filter label {
     margin-right: 1rem;
     margin-left: 1rem;
-    font-size: x-large;
+    font-size:xx-large;
+}
+.filter select {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    font-size: large;
+    padding: 0.6rem;
+    border-radius: 0.7rem;
+}
+
+.filter button {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    font-size: large;
+    padding: 0.6rem;
+    border-radius: 0.7rem;
 }
 
 .cards{

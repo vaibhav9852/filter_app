@@ -3,75 +3,75 @@ let items = [
         name:'Tshirt-1',
         type:'tshirt',
         size: 's',
-        img:'https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/j/p/v/l-os-100-vdorgnl-nvy-veirdo-original-imah256cvtzjwn5r.jpeg?q=70'
     },
     {
         name:'Tshirt-2',
         type:'tshirt',
         size: 'm',
-        img:'https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/j/j/p/s-jj-oversize-s-houseofcommon-original-imah3zztsgbgrun4.jpeg?q=70'
     },
     {
         name:'Tshirt-3',
         type:'tshirt',
         size: 'l',
-        img:'https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/o/z/u/l-mickey-3008-veirdo-original-imah4gzg2ndznd24.jpeg?q=70'
     },
     {
         name:'Jeans-1',
         type:'jeans',
         size: 's',
-        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/z/v/y/34-dl-men-baggy-62-denim-look-original-imah46n7wrs974gy.jpeg?q=70'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/b/g/m/36-dl-men-baggy-01-denim-look-original-imahffwvmvy7bgwp.jpeg?q=70'
     },
     {
         name:'Jeans-2',
         type:'jeans',
         size: 'm',
-        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/z/v/y/34-dl-men-baggy-62-denim-look-original-imah46n7wrs974gy.jpeg?q=70'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-jean/y/g/x/28-spy-dl-men-baggy-14-denim-look-original-imah2gfabus6cnzh.jpeg?q=70'
     },
     
     {
         name:'Jeans-3',
         type:'jeans',
         size: 'l',
-        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/z/v/y/34-dl-men-baggy-62-denim-look-original-imah46n7wrs974gy.jpeg?q=70'
+        img:'https://rukminim2.flixcart.com/image/612/612/k70spzk0/jean/g/y/y/30-hljn000880-highlander-original-imafpchpcbyy79zh.jpeg?q=70'
     },
     {
         name:'Tshirt-4',
         type:'tshirt',
         size: 's',
-        img:'https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/h/s/l/l-kaezri-bl-tshirt-l-kaezri-original-imagyvjhvbdgdutg.jpeg?q=70'
     },
     {
         name:'Tshirt-5',
         type:'tshirt',
         size: 'm',
-        img:'https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/d/v/q/s-os-100-navy-veirdo-original-imahfpkkzj2hrjyw.jpeg?q=70'
     },
     {
         name:'Tshirt-6',
         type:'tshirt',
         size: 'l',
-        img:'https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/b/n/z/xl-men-waffle-knit-ds-beige-madfrog-original-imahfhszza4phwa6.jpeg?q=70'
     },
     {
         name:'Jeans-4',
         type:'jeans',
         size: 's',
-        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/z/v/y/34-dl-men-baggy-62-denim-look-original-imah46n7wrs974gy.jpeg?q=70'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/f/x/k/30-phjn000054-highlander-original-imah3fw3bhgasfw5.jpeg?q=70'
     },
     {
         name:'Jeans-5',
         type:'jeans',
         size: 'm',
-        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/z/v/y/34-dl-men-baggy-62-denim-look-original-imah46n7wrs974gy.jpeg?q=70'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/o/p/a/42-fmjen4054b-flying-machine-original-imah3g4cyegxrgre.jpeg?q=70'
     },
     
     {
         name:'Jeans-6',
         type:'jeans',
         size: 'l',
-        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/z/v/y/34-dl-men-baggy-62-denim-look-original-imah46n7wrs974gy.jpeg?q=70'
+        img:'https://rukminim2.flixcart.com/image/612/612/xif0q/jean/o/v/v/32-udjeno0660-u-s-polo-association-original-imaggjjuh2fncwvk.jpeg?q=70'
     },
 ]
 
